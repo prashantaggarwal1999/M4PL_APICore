@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/M4PL.Web.Business/obj
+/M4PL.Web.Business/bin
+/Meridian.Core.Web/obj
+/Meridian.Core.Web/bin
+/Meridian.Web.API/obj
+/Meridian.Web.API/Meridian.Web.API.csproj.user
+/Meridian.Web.API/bin
+/Meridian.Web.API.Test/obj
+/Meridian.Web.API.Test/bin/Debug/netcoreapp3.1
+/Meridian.Web.Resolver/obj
+/Meridian.Web.Resolver/bin

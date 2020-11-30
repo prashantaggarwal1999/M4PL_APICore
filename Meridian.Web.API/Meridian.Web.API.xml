@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Meridian.Web.API</name>
+    </assembly>
+    <members>
+        <member name="F:Meridian.Web.API.Controllers.OrderController._logger">
+            <summary>
+            Initialize the variable for logger.
+            </summary>
+        </member>
+        <member name="P:Meridian.Web.API.Controllers.OrderController.OrderBusinessRepository">
+            <summary>
+            Property to access the Business Repository Methods
+            </summary>
+        </member>
+        <member name="M:Meridian.Web.API.Controllers.OrderController.#ctor(Microsoft.Extensions.Logging.ILogger{Meridian.Web.API.Controllers.OrderController},M4PL.Web.Core.Order.Interface.IOrderBusinessRepository)">
+            <summary>
+            Order controller constructor with logger and Business Repository variables as input.
+            </summary>
+            <param name="logger">logger</param>
+            <param name="orderBusinessRepository">orderBusinessRepository</param>
+        </member>
+        <member name="M:Meridian.Web.API.Controllers.OrderController.Get">
+            <summary>
+            This API is test to get the Order information.
+            </summary>
+            <returns>It will return the specific order information</returns>
+        </member>
+    </members>
+</doc>
